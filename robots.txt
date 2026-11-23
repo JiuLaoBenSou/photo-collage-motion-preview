@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jiulaobensou.github.io/photo-collage-motion-preview/sitemap.xml

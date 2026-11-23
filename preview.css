@@ -1,0 +1,11 @@
+.preview-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.35rem; }
+.preview-links a, .preview-copy a { color: #f2d1a2; text-underline-offset: 0.2em; overflow-wrap: anywhere; }
+.preview-footer, .preview-document footer { padding: 1rem; background: #25180f; font: 14px/1.5 system-ui, sans-serif; }
+.preview-document { margin: 0; background: #23170f; color: #efe1cd; font: 16px/1.75 system-ui, sans-serif; }
+.preview-copy { max-width: 42rem; padding: 2rem 1.25rem; margin: 0 auto; }
+.preview-copy h1 { line-height: 1.2; margin-block: 2rem 1.5rem; }
+.preview-copy h2 { margin-block: 1.5rem 0.25rem; font-size: 1.125rem; }
+.preview-copy p { margin-block: 0.5rem 1rem; }
+.preview-steps { padding-inline-start: 1.65rem; }
+.preview-steps img { display: block; max-width: 100%; height: auto; border-radius: 0.35rem; }
+.preview-back { font-size: 0.9rem; }
